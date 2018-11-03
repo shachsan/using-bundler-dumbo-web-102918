@@ -12,4 +12,4 @@ group :development do
 
 end
 
-group :test {gem "rspec"}
+group :test gem "rspec"}
