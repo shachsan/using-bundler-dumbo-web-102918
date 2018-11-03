@@ -12,4 +12,5 @@ group :development do
 
 end
 
-group :test gem "rspec"}
+group :test do
+  gem "rspec"}
