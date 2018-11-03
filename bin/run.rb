@@ -1,4 +1,4 @@
-require_relative '../config/en'
+require_relative '../config/environment'
 
 Hashie
 Sinatra
