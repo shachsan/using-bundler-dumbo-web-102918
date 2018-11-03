@@ -1,1 +1,1 @@
-require 'bu'
+require 'bundler/setup'
