@@ -12,4 +12,4 @@ group :development do
 
 end
 
-group 
+group :test 
