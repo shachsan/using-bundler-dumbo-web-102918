@@ -1,3 +1,4 @@
+require_relative
 
 Hashie
 Sinatra
