@@ -10,4 +10,4 @@ group :test do
   gem "rspec"
 end
 
-gem 'pry' group: 
+gem 'pry' group: :development
