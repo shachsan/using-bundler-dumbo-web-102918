@@ -12,4 +12,4 @@ group :development do
 
 end
 
-group :test 
+group :test {gem ""}
