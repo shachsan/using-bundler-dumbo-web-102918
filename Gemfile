@@ -6,8 +6,9 @@ gem 'octokit', '~> 2.0'
 
 # source "git@github.com:awesome-print/awesome_print.git"
 # gem 'awesome_print'
-gem "pry", :group => :development
 
 group :test do
   gem "rspec"
 end
+
+gem "pry", :group => :development
