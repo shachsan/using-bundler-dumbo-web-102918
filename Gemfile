@@ -6,12 +6,11 @@ gem 'octokit', '~> 2.0'
 
 # source "git@github.com:awesome-print/awesome_print.git"
 # gem 'awesome_print'
+group :test do
+  gem "rspec"
+end
 
 group :development do
   gem "pry"
 
 end
-
-group :test do
-  gem "rspec"
-end 
